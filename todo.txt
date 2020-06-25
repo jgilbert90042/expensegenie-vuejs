@@ -1,0 +1,3 @@
+Autoload expenses
+Create component structure that shows expenses
+create component structure that shows totals below
