@@ -6,7 +6,7 @@ class Expense {
         this.desc = desc;
         this.category = category;
         this.amount = amount;
-    }
+    }/ ,.
 }
 
 Vue.filter('formatDate', function(value) {
